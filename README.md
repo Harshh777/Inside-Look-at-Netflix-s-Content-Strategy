@@ -9,7 +9,7 @@ The goal of this project is to extract **actionable insights** that explain Netf
 ---
 
 ## 🔗 Google Colab Notebook
-👉 **Colab Link:** *(Add your Google Colab link here)*
+👉 **Colab Link:** *(https://colab.research.google.com/drive/1X1mbiZ6FaqPmgDSV36urGsAU4mrA7Q3w?usp=sharing)*
 
 ---
 
